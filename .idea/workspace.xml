@@ -1,30 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a5fddf03-2f74-4add-b626-8ffa372faf17" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/static/images/follow.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/images/13458635_495310297327234_5647645778146293417_o.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/images/13458635_495310297327234_5647645778146293417_o_DYQaEne.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/images/Dennis_Ivanov.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/images/Seo_thumbnail4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/images/dash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/images/ecom.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/images/filter.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/images/membership_site.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/images/membership_site_rGviW6n.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/images/personal blog 5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/images/personal-blog.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/images/wordpress_or_django.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/images/youtube.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/personal-blog.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/uploads/2020/07/29/40k-website.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/uploads/2020/07/29/book-tablet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/uploads/2020/07/29/youtube.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/templates/base/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/base/templates/base/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/templates/base/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/base/templates/base/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/templates/base/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/base/templates/base/navbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/blue.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/green.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/purple.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/hoanganh.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/hoanganh.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/css/blue.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/css/default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/css/green.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/css/purple.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staticfiles/js/script.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -37,11 +47,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Fyyur" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  }
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
